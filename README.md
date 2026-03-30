@@ -25,19 +25,24 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="1600" height="715" alt="image" src="https://github.com/user-attachments/assets/286f0431-3774-4d90-a251-7bbd39791c82" />
 
 
 **To measure RTh or RN**
+<img width="1449" height="587" alt="image" src="https://github.com/user-attachments/assets/130b064f-01a2-48bc-b30e-83462b9f505e" />
 
 
 
 **To measure IN or Isc**
+<img width="1474" height="461" alt="image" src="https://github.com/user-attachments/assets/f25bb864-4d82-4836-afa9-9a82e50cd273" />
 
  
 **Thevenin’s equivalent circuit**
+<img width="1600" height="626" alt="image" src="https://github.com/user-attachments/assets/6f0ef1dc-a70d-4659-b7bb-98c9a7ff2a1d" />
 
 
 **Norton’s equivalent circuit**
+<img width="1600" height="696" alt="image" src="https://github.com/user-attachments/assets/5f7c2f7a-fb13-48fe-bef9-492d3042ed29" />
 
 
 **PROCEDURE:**
@@ -72,6 +77,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+<img width="1600" height="580" alt="image" src="https://github.com/user-attachments/assets/df197efa-d12b-471f-bef7-d3ba160555eb" />
 
 Vi (volts)	IL (amps)
 
@@ -80,11 +86,13 @@ Vi (volts)	IL (amps)
 To measure RTh or RN
 
 Vi (volts)	RTh (Ω)
+<img width="1600" height="737" alt="image" src="https://github.com/user-attachments/assets/c7206d6e-f2d0-44c5-90c6-9664e931707f" />
 
 
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
+<img width="1474" height="461" alt="image" src="https://github.com/user-attachments/assets/e9e1cb49-458a-434b-91fc-800da885fdb9" />
 
 Vi (volts)	IN (amps)
 	
@@ -93,11 +101,15 @@ Vi (volts)	IN (amps)
 Practical value of IL (from tabulation 1) =2.3mA
 
 **Verification of Norton’s theorem**
+<img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/3583a24e-3a37-43ad-9d5e-0d5a0d5c1db0" />
 
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+ <img width="1600" height="1441" alt="image" src="https://github.com/user-attachments/assets/925487e1-51ba-4f64-9878-746bd1b38578" />
+
+**MARK SPLITUP:**
+<img width="1600" height="1114" alt="image" src="https://github.com/user-attachments/assets/54aa70a1-aedc-4305-9655-ebaf7cf6e30e" />
 
 
 **RESULT:**
